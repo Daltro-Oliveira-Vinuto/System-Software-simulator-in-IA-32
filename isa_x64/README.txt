@@ -1,4 +1,4 @@
-nome: Kyara Esteves de Sousa Mat: 825298
+nome: Daltro Oliveira Vinuto
 
 O projeto foi implementado e testado no sistema operacional 
 Ubuntu linux. O programa nao funcionara no windows pois as
