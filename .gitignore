@@ -1,0 +1,6 @@
+*.o
+*.exe
+isa_x64/*.o
+isa_x64/*.exe
+trabalho2/*.o
+trabalho2/*.exe
